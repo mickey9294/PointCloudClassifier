@@ -1,0 +1,1 @@
+D:\Projects\shape2pose\data\2_analysis\coseg_chairs\points\even1000\test28.pts
